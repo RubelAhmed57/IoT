@@ -9,6 +9,11 @@
 
 # IoT Projects and Tutorials
 
+* [IoT for Beginners](https://www.youtube.com/watch?v=GUvKv7D4iZY)
+* [MQTT](https://www.youtube.com/watch?v=uqgzeD8MK3o)
+* [Kaa Open Source IoT Platform](https://www.youtube.com/watch?v=fm3WiLrssCk)
+* [IoT Deep Drive Meetup, Bluetooth Low Energy Basics](https://www.youtube.com/watch?v=ORauwPw8rjo)
+* [Beginning IoT](https://docs.google.com/document/d/1S9zRHjKOE2DGxW3xIcncZrAFgcxIK_Zzoqi2V8ALOL4/edit#)
 * https://www.youtube.com/user/raqueebhassan/videos
 * https://www.youtube.com/playlist?list=PL87CgTAGz2yZ0geJ-_9HAK2u8NDMhVwFH
 * https://www.youtube.com/playlist?list=PLYcEbSH1D8QtBrV0T-ZOfe9LCooa-J3Qk
